@@ -1,0 +1,13 @@
+Hello Guys,
+
+Just sharing the snippet in sequence.
+First 3 snippet are consist of main page only. other 3 are only in About us page. 
+
+Every link should redirect to other page.
+
+Just start with assignment. Will take this next week. Put your 100 % effort. Dont copy from others.
+
+Sharing the structure also. Please implement accordingly.
+
+Thanks & Regards
+Ashwani Gupta
